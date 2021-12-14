@@ -5,6 +5,7 @@
 - node version >=8.0+
 - run
 ```npm install -g yo generator-office```
+- run ```npm install``` at project root
 
 ## Running App
 
